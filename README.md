@@ -1,4 +1,4 @@
-📚 # Dicionário dos dados
+# 📚 Dicionário dos dados
 Uma explicação do conteúdo em `drinks.csv`:<br>
 (dados relativos ao ano de 2010)
 
